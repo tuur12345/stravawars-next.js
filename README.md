@@ -15,9 +15,9 @@ StravaWars is a gamified web app built with **Next.js** that connects to your **
 
 - Framework: Next.js  
 - API: Strava API  
-- Map: Leaflet or Mapbox (optional)  
+- Map: Leaflet
 - Styling: Tailwind CSS  
-- Database: TBD (PostgreSQL/Supabase/etc.)  
+- Database: under construction
 
 ## 🔧 Setup Instructions
 
